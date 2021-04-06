@@ -26,7 +26,7 @@ SECRET_KEY = '@j^m_#zzqx0c$hmb=)+6=+60pzpbk#jy@4qrwxk55t8xes&cqo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'django-react-music-controller.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'django-react-music-controller.herokuapp.com', 'accounts.spotify.com/authorize', 'accounts.spotify.com/api/token']
 
 
 # Application definition
